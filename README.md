@@ -1,5 +1,7 @@
 # UsingYOLOv3
 
+####Using Simple YOLOv3
+
 <img width=600 src="https://user-images.githubusercontent.com/44635266/62702994-1cb8b700-ba23-11e9-9bd6-88d60bc48eaa.PNG">
 
 ### Step 1 - Settings
@@ -30,22 +32,20 @@ Add the following paths to Environmental Variables C:\Program Files\NVIDIA GPU C
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\include
 
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\lib\x64
-
-Ensure that you have the latest nvidia graphics drivers install on your PC. You can do this from the nvidia website.
 ```
+
 ### Step 2 - PyTorch Yolo v3
-Change directory to a workplace where you want to download the repo
 
 * Clone Yolo v3 Repo
 ```
 git clone https://github.com/ayooshkathuria/pytorch-yolo-v3.git
 ```
-* Download the Weights
+* Download the Weights, into pytorch-yolo-v3
 
 🔗https://pjreddie.com/media/files/yolov3.weights
 
 ### Step 3 - PyTorch Yolo v3
-Change Directory to cloned repo
+
 ```
 cd pytorch-yolo-v3
 ```
