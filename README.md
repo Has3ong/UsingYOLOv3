@@ -2,7 +2,7 @@
 
 ####Using Simple YOLOv3
 
-<img width=600 src="https://user-images.githubusercontent.com/44635266/62702994-1cb8b700-ba23-11e9-9bd6-88d60bc48eaa.PNG">
+<img width=800 src="https://user-images.githubusercontent.com/44635266/62702994-1cb8b700-ba23-11e9-9bd6-88d60bc48eaa.PNG">
 
 ### Step 1 - Settings
 * Anaconda – Python 3.6 (Win 10) https://www.anaconda.com/download/
